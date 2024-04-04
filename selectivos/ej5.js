@@ -6,7 +6,7 @@ saludar="def saludar";
 despedir="def despedir";
 
 console.log("Decime tu nombre:");
-nomIngUsuario=leer();
+nomIngUsuario=Number(leer());
 console.log("Saludar 1 o despedir 2:");
 eleccionUsuario=leer();
 if (eleccionUsuario == 1) {

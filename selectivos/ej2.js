@@ -1,5 +1,5 @@
 const leer = require("prompt-sync" )();
-const PALABRA_SECRETA = "h"
+const PALABRA_SECRETA = "h" //no puede cambiar, es una variable
 
 let palabraIngresada = "def palabra ingresada";
 
